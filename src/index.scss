@@ -156,3 +156,20 @@ hr{
     }
 
 }
+
+@media screen and (max-width:600px) {
+
+    *{
+        font-size: 100%;
+    }
+    #Sobre-Mim{
+        width: 100%;
+        font-size: 100%;
+    }
+}
+@media screen and (max-height:700px) {
+    #Prefil_Info{
+        visibility: hidden;
+    
+}
+}
