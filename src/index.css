@@ -1,0 +1,141 @@
+* {
+  border: 0px;
+  margin: 0px;
+  padding: 0px;
+  background-color: #191923;
+  color: #24b735;
+  transition: 500ms;
+}
+
+#Foto_Perfil {
+  border-radius: 5px;
+  border: 1px solid white;
+  background-image: url(Imgs/Foto_Perfil.gif);
+  background-size: cover;
+  width: 80%;
+  margin: auto;
+  margin-top: 20px;
+  height: 20ch;
+  opacity: 0.8;
+  background-position: center;
+}
+#Foto_Perfil:hover {
+  opacity: 1;
+  background-size: 120%;
+}
+
+#Nome {
+  font-size: 25px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  width: 20vh;
+  text-align: center;
+  border-radius: 10px;
+  margin: auto;
+  margin-top: 2vh;
+  background-color: #14141e;
+}
+#Nome:hover {
+  font-size: 30px;
+}
+
+#Rede_Social {
+  width: 100%;
+  border-radius: 10px;
+  width: 20ch;
+  margin: auto;
+  text-align: center;
+  padding: 1vh;
+}
+#Rede_Social > a > img {
+  height: 5ch;
+  padding: 0.2vh;
+}
+
+#Prefil_Info {
+  width: 25ch;
+  position: absolute;
+  top: 23%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+#Sobre-Mim {
+  width: 50%;
+  margin: auto;
+  margin-top: 43vh;
+  font-size: 150%;
+  text-align: center;
+  border-radius: 5px;
+}
+#Sobre-Mim:hover {
+  text-shadow: 0px 1px 5px #24b735;
+}
+
+hr {
+  background-color: #fff;
+  width: 50%;
+  height: 1.9px;
+  border-radius: 5px;
+  margin: auto;
+  margin-top: 1vh;
+  margin-bottom: 1vh;
+}
+hr:hover {
+  width: 60%;
+}
+
+#Projetos {
+  text-align: center;
+  font-family: serif;
+}
+#Projetos:hover {
+  font-size: 110%;
+}
+
+#Projetos > a {
+  width: 40%;
+  margin: auto;
+}
+#Projetos > a > a {
+  font-size: 3vh;
+}
+
+.Projetos {
+  text-decoration: none;
+}
+.Projetos > div {
+  margin: auto;
+  background-color: #14141e;
+  width: 50%;
+  padding-top: 1vh;
+  margin-top: 1vh;
+  border-radius: 5px;
+  font-size: 3.4vh;
+}
+.Projetos > div:hover {
+  font-size: 4vh;
+}
+
+#Habilidades {
+  text-align: center;
+}
+#Habilidades > img {
+  width: 5vh;
+}
+#Habilidades:hover {
+  font-size: 2.5vh;
+}
+
+.Redondar {
+  border-radius: 10%;
+}
+
+#Contate-me {
+  text-align: center;
+}
+#Contate-me > a > img {
+  width: 5vh;
+}
+#Contate-me:hover {
+  font-size: 2.5vh;
+}/*# sourceMappingURL=index.css.map */
