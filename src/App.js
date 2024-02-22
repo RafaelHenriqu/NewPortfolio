@@ -25,7 +25,7 @@ function App() {
         </div>
         
         <div id="infos"> 
-        <div id="Sobre-Mim">Seja bem-vindo(a)! <br></br>Meu nome é Rafael, tenho 18 anos e gostaria de poder ajudá-lo(a) com seus projetos. Utilizando minhas habilidades e conhecimentos, posso oferecer soluções eficientes e criativas. Estou à disposição para discutir suas necessidades e contribuir para o sucesso de seus projetos.</div>
+        <div id="Sobre-Mim"> asdsadSeja bem-vindo(a)! <br></br>Meu nome é Rafael, tenho 18 anos e gostaria de poder ajudá-lo(a) com seus projetos. Utilizando minhas habilidades e conhecimentos, posso oferecer soluções eficientes e criativas. Estou à disposição para discutir suas necessidades e contribuir para o sucesso de seus projetos.</div>
         <div id='Habilidades'>
           <hr></hr>
           <h1>Habilidades</h1>
