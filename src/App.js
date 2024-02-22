@@ -19,13 +19,13 @@ function App() {
         <div id="Nome">Rafael</div>
         <div id='Rede_Social'>
         <a href='https://github.com/RafaelHenriqu?tab=repositories' target='_bank'><img src={github} alt='Github' title='GitHub'></img></a>
-        <a href='' target='_bank'><img src={Linkdin} alt='Linkdin' title='Linkdin'></img></a>
-        <a href='' target='_bank'><img src={Youtube} alt='Youtube' title='Youtube'></img></a>
+        <a href='https://www.linkedin.com/in/rafael-henrique-7b109a265/recent-activity/all/' target='_bank'><img src={Linkdin} alt='Linkdin' title='Linkdin'></img></a>
+        <a href='https://www.youtube.com/channel/UCZD2hkLv837H3B6KaZLE0cw' target='_bank'><img src={Youtube} alt='Youtube' title='Youtube'></img></a>
         </div>
         </div>
         
         <div id="infos"> 
-        <div id="Sobre-Mim"> asdsadSeja bem-vindo(a)! <br></br>Meu nome é Rafael, tenho 18 anos e gostaria de poder ajudá-lo(a) com seus projetos. Utilizando minhas habilidades e conhecimentos, posso oferecer soluções eficientes e criativas. Estou à disposição para discutir suas necessidades e contribuir para o sucesso de seus projetos.</div>
+        <div id="Sobre-Mim">Seja bem-vindo(a)! <br></br>Meu nome é Rafael, tenho 18 anos e gostaria de poder ajudá-lo(a) com seus projetos. Utilizando minhas habilidades e conhecimentos, posso oferecer soluções eficientes e criativas. Estou à disposição para discutir suas necessidades e contribuir para o sucesso de seus projetos.</div>
         <div id='Habilidades'>
           <hr></hr>
           <h1>Habilidades</h1>
